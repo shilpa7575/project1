@@ -1,11 +1,5 @@
-ass Bike9{  
- final int speedlimit=90;//final variable  
-  void run(){  
-    speedlimit=400;  
-     }  
-      public static void main(String args[]){  
-       Bike9 obj=new  Bike9();  
-        obj.run();   }  
-	}
-
-
+public class Main {
+    public static void main(String[] args) {
+            System.out.println("Hello, World!");
+	        }
+>>>>>>> 29e812af808f3fa0c9024e3f30bb43350b4fb48b
